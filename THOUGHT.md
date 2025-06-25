@@ -1,0 +1,6 @@
+- Rust est plus transparent sur comment il gère la mémoire 
+- Pas mal de choses qui revient de JS destructuration, type
+- Intéressant la partie où il parle de comment null est géré dans les langages https://doc.rust-lang.org/stable/book/ch06-01-defining-an-enum.html#the-option-enum-and-its-advantages-over-null-values
+  - ça a été game changer sur le choix de l'utilisation du pattern matching dans Rust
+- Le concept d'emprunt de variable est vraiment très lié à comment est géré la mémoire
+  - ça rend le langage intéressant à apprendre 
